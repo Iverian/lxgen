@@ -1,3 +1,3 @@
-# reportgen
+# lxgen
 
-Command line tool for generating documents from LaTeX templates and data supplied from executables.
+lxgen is a simple command line tool for generating pdf documents from LaTeX templates
